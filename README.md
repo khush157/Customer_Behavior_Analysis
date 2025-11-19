@@ -23,8 +23,8 @@ To analyse Customer Behavior data from a  store and build an insightful dashboar
 - Dynamic filters and *drill-down analysis*
 
 
-All SQL queries are included here: [SQL Analysis](./pizza_sales_analysis.sql) 
-Python data Cleaning Code : (./Customer_Shopping_Behavior_Analysis.ipynb)
+All SQL queries are included here: [SQL Analysis](./customer_behavior_sql_queries) 
+Python data Cleaning Code : [Python](./Customer_Shopping_Behavior_Analysis.ipynb)
 # Dashboard Features (Power BI)
 
 The dashboard was created using *Power BI Desktop* and includes:
