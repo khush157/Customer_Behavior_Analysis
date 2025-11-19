@@ -2,7 +2,7 @@
 Data Analysis Project
 
 
-# Customer_Behavior_Analysis Dashboard (Python + Power BI + SQL)
+# Customer_Shopping_Behavior_Analysis Dashboard (Python + Power BI + SQL)
 # Overview
 
 This project aims to analyse and visualise Customer Shopping Behavior data from a public dataset of a Customer Shopping Behavior , using Python Pandas for data cleaning, SQL for extract data and Power BI for visualisations and interactive dashboard reporting.
